@@ -8,10 +8,10 @@ Written by Kenneth Minkinen. I'm half Estonian, half Finnish, and an EU citizen 
 
 <picture>
   <source media="(max-width: 600px)" srcset="https://github.com/KennethMin/ravinne-case-study/raw/HEAD/assets/ravinne-grid.png">
-  <img src="assets/ravinne-strip.png" alt="Four App Store screenshots of Ravinne in Finnish: food search with voice, photo and barcode entry; a pasta dish read from a photo; a recipe with its macros; the weekly report">
+  <img src="assets/ravinne-strip.png" alt="Four screens from the current Ravinne build in Finnish: Koti with the day's energy ring and meal timeline, tonight's recipe pick and how it fits the day, the weight trend with its forecast, and the logging streak">
 </picture>
 
-<sub>App Store screenshots, in Finnish: search and scan, a meal read from a photo, a recipe, the weekly report.</sub>
+<sub>The current build on main (September 2026, not in the stores yet), captured on the iOS simulator with its development preview data. In Finnish, left to right: Koti with the day's energy and meals, tonight's recipe pick and how it fits the day, the weight trend with its forecast, and the logging streak.</sub>
 
 ## What it does
 
